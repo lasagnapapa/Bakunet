@@ -2,4 +2,4 @@
 
 
 # Bakunet
-An open-source Bakugan news and collection application
+An open-source Bakugan hub
